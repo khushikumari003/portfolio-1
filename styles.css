@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 20px;
+    
+    color: #3355ac;
+    border-width: 2px;
+    
+
+}
+
+#me{
+    background-color: #3355ac;
+    color: white;
+    padding: 10px;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+    margin: 10px
+}
+body {
+    position: relative;
+    background-color: rgb(98, 167, 58);
+}
+h1{
+    color: yellow;
+}
+.navbar {
+    margin-bottom: 20px;
+    margin-right: 200px;
+}
+
+.home-section, .projects-section, .contact-section {
+    padding: 60px 0;
+}
+.card-title{
+    color: white;
+
+}
+.card-img-top{
+    height: 200px;
+
+}
+.card-body{
+    color: white;
+}
+.home-section {
+    background: #75920d;
+}
+
+.projects-section {
+    background: #1d1a1b;
+}
+
+.contact-section {
+    background: #081623;
+}
+
+.card {
+    margin-top: 20px;
+}
